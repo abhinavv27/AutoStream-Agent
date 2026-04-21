@@ -1,5 +1,9 @@
 # AutoStream Agent: Social-to-Lead Workflow
-
+(Made for Machine Learning Intern – Assignment
+Project
+Company: ServiceHive
+Product: Inflx
+Project Title: Social-to-Lead Agentic Workflow)
 AutoStream is a conversational AI assistant designed for content creators. It handles product questions using a local knowledge base (RAG) and collects lead information from interested users. Built with LangGraph, it manages state across multi-turn conversations to ensure a smooth transition from inquiry to lead capture.
 
 ## Running Locally
